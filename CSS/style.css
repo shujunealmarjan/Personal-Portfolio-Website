@@ -63,13 +63,14 @@
     .mobile:focus-within ul{
   display:block;
 }
-
-    
-    
-    }
     
     .mobile ul li{
     margin: 2px;
+    }
+
+    button{
+      background: transparent;
+      border: none;  
     }
     
     .lines div {
@@ -194,4 +195,3 @@
       
       .mobile{ display:block;}
       .Desktop{display:none;} } 
-
