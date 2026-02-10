@@ -60,8 +60,10 @@
      min-width: 125px;
     }
     
-    .mobile:hover ul{
-    display:block;
+    .mobile:focus-within ul{
+  display:block;
+}
+
     
     
     }
@@ -192,3 +194,4 @@
       
       .mobile{ display:block;}
       .Desktop{display:none;} } 
+
